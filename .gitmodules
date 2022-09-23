@@ -1,0 +1,6 @@
+[submodule "original"]
+	path = original
+	url = https://github.com/emilybache/GildedRose-Refactoring-Kata.git
+[submodule "refactored"]
+	path = refactored
+	url = git@github.com:kurbaniec/swe-refactoring.git

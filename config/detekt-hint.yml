@@ -1,0 +1,4 @@
+detekt-hint:
+  LackOfCohesionMethods:
+    active: true
+    threshold: "0.0"
